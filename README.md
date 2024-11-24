@@ -31,10 +31,8 @@ token部分に注目！　hash文字になっていれば
 
 このように、チャンネル番号の後ろ部分を自力で編集する必要があります。
 
-先着順 10件 ですので
 
+## 使用すると使用者のIPが登録され、登録した人以外は繋がりません。
 
-# 使用すると使用者のIPが登録され、登録した人以外は繋がりません。
-
-LINK ＞＞＞  https://drive.google.com/file/d/1XfPzQOzORCMCaD-Fa_VwyS0ZypA2POdd/view?usp=drive_link
+LIST LINK ＞＞＞  現在　停止中です。
 
