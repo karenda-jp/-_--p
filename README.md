@@ -41,7 +41,8 @@ token部分に注目！　hash文字になっていれば
 
 ## 使用すると使用者のIPが登録され、登録した人以外は一定期間繋がりません。
 
-LIST LINK ＞＞＞  現在　停止中です。
+LIST LINK ＞＞＞ https://drive.google.com/file/d/1v0jcp1Eervt6-XDVfiapNP4ZGVWl5i7j/view?usp=drive_link
+漏洩防止の観点から、数時間で消去します。
 
 ## 作成したリンクを公開してしまうと、有効期限が切れた際にIPの変更登録が発生する危険性
 パスワードをオープンにしてるのです？
