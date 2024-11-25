@@ -46,7 +46,7 @@ token部分に注目！　hash文字になっていれば
 
 ## 使用すると使用者のIPが登録され、登録した人以外は一定期間繋がりません。
 
-LIST LINK ＞＞＞ https://drive.google.com/file/d/1IE6VMRj77RjghEdcEr22USd_2SXW8T8H/view
+LIST LINK ＞＞＞ リンク削除済
 
 URL出現時、漏洩防止の観点から、数時間で消去します。
 
